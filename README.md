@@ -17,6 +17,7 @@ python setup.py install --user
 ```
 
 ### Compiling NMS
+```
 cd <CenterNet dir>/external
 make
 ```
