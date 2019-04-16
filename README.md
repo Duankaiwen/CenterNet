@@ -1,9 +1,9 @@
 # CenterNet: Keypoint Triplets for Object Detection
 by Kaiwen Duan, Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang and Qi Tian
 
-# The code to train and eval our CenterNet is available here. Thanks [Princeton Vision & Learning Lab](https://github.com/princeton-vl)!
+*The code to train and eval our CenterNet is available here. Thanks [Princeton Vision & Learning Lab](https://github.com/princeton-vl)!*
 
-# Our method is an one-stage detector and learns from scratch. On the MS-COCO dataset, CenterNet achieves an AP of 47.0%！ 
+*Our method is an one-stage detector and learns from scratch. On the MS-COCO dataset, CenterNet achieves an AP of 47.0%！*
 
 ## Getting Started
 Please first install [Anaconda](https://anaconda.org) and create an Anaconda environment using the provided package list.
