@@ -1,4 +1,5 @@
 # CenterNet: Keypoint Triplets for Object Detection
+by Kaiwen Duan, Bai Song, Lingxi Xie, Honggang Qi, Qingming Huang and Qi Tian
 ## Getting Started
 Please first install [Anaconda](https://anaconda.org) and create an Anaconda environment using the provided package list.
 ```
