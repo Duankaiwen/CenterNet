@@ -1,4 +1,4 @@
-# CenterNet
+# CenterNet: Keypoint Triplets for Object Detection
 ## Getting Started
 Please first install [Anaconda](https://anaconda.org) and create an Anaconda environment using the provided package list.
 ```
