@@ -12,6 +12,8 @@ CenterNet is a framework for object detection with deep ConvNets. You can use th
 * It achieves state-of-the-art performance on one of the most challenging dataset: MS-COCO.
 * Our code is written by Python, based on [CornerNet](https://github.com/princeton-vl/CornerNet).
 
+Architecture
+
 ![Network_Structure](https://github.com/Duankaiwen/CenterNet/blob/master/Network_Structure.jpg)
 
 ## Getting Started
