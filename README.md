@@ -20,7 +20,9 @@ CenterNet is a framework for object detection with deep ConvNets. You can use th
 
 ![Table1](https://github.com/Duankaiwen/CenterNet/blob/master/Table1.png)
 
-## Getting Started
+![Table2](https://github.com/Duankaiwen/CenterNet/blob/master/Table2.png)
+
+## Train/Eval
 Please first install [Anaconda](https://anaconda.org) and create an Anaconda environment using the provided package list.
 ```
 conda create --name CenterNet --file conda_packagelist.txt
