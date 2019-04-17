@@ -5,6 +5,13 @@ by Kaiwen Duan, Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang and Qi Tian
 
 **Our method is an one-stage detector and learns from scratch. On the MS-COCO dataset, CenterNet achieves an AP of 47.0%！**
 
+## Introduction
+
+CenterNet is a framework for object detection with deep ConvNets. You can use the code to train/evaluate a network for object detection task.
+
+* It achieves state-of-the-art performance on one of the most challenging dataset: MS-COCO.
+* Our code is written by Python, based on [CornerNet](https://github.com/princeton-vl/CornerNet).
+
 ## Getting Started
 Please first install [Anaconda](https://anaconda.org) and create an Anaconda environment using the provided package list.
 ```
