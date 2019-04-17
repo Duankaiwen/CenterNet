@@ -18,7 +18,7 @@ CenterNet is a framework for object detection with deep ConvNets. You can use th
 
 ## Comparison with other methods
 
-Method | Backbone | Tr.Input | Te.Input | AP | AP_50 | AP_75 | AP_S | AP_M | AP_L$ | AR_1 |  AR_10 | AR_10 | AR_S | AR_M | AR_L |
+| Method | Backbone | Tr.Input | Te.Input | AP | AP_50 | AP_75 | AP_S | AP_M | AP_L$ | AR_1 |  AR_10 | AR_10 | AR_S | AR_M | AR_L |
 
 
 ## Train/Eval
