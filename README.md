@@ -18,6 +18,7 @@ CenterNet is a framework for object detection with deep ConvNets. You can use th
 
 ## Comparison with other methods
 
+![Tabl](https://github.com/Duankaiwen/CenterNet/blob/master/Table1.png)
 
 
 
