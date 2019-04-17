@@ -33,25 +33,25 @@ After you create the environment, activate it.
 source activate CenterNet
 ```
 
-### Compiling Corner Pooling Layers
+## Compiling Corner Pooling Layers
 ```
 cd <CenterNet dir>/models/py_utils/_cpools/
 python setup.py install --user
 ```
 
-### Compiling NMS
+## Compiling NMS
 ```
 cd <CenterNet dir>/external
 make
 ```
 
-### Installing MS COCO APIs
+## Installing MS COCO APIs
 ```
 cd <CenterNet dir>/data/coco/PythonAPI
 make
 ```
 
-### Downloading MS COCO Data
+## Downloading MS COCO Data
 - Download the training/validation split we use in our paper from [here](https://drive.google.com/file/d/1dop4188xo5lXDkGtOZUzy2SHOD_COXz4/view?usp=sharing) (originally from [Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn/tree/master/data))
 - Unzip the file and place `annotations` under `<CenterNet dir>/data/coco`
 - Download the images (2014 Train, 2014 Val, 2017 Test) from [here](http://cocodataset.org/#download)
