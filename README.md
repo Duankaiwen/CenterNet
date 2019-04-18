@@ -17,6 +17,8 @@ CenterNet is a framework for object detection with deep convolutional neural net
 
 *More detailed descriptions of our approach and code will be made available soon.*
 
+**If you encounter any problems in using our code, please contact Kaiwen Duan: kaiwen.duan@vipl.ict.ac.cn.**
+
 ## Architecture
 
 ![Network_Structure](https://github.com/Duankaiwen/CenterNet/blob/master/Network_Structure.jpg)
