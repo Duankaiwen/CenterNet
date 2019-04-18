@@ -1,16 +1,21 @@
 # [CenterNet: Keypoint Triplets for Object Detection](https://arxiv.org/abs/1904.08189)
 by Kaiwen Duan, Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang and Qi Tian
 
-**The code to train and eval our CenterNet is available here. Thanks [Princeton Vision & Learning Lab](https://github.com/princeton-vl)! For more details, please refer to our [arXiv paper](https://arxiv.org/abs/1904.08189).**
+**The code to train and evaluate the proposed CenterNet is available here. For more technical details, please refer to our [arXiv paper](https://arxiv.org/abs/1904.08189).**
 
-**Our method is an one-stage detector and learns from scratch. On the MS-COCO dataset, CenterNet achieves an AP of 47.0%！**
+**Thanks [Princeton Vision & Learning Lab](https://github.com/princeton-vl)! for providing the original implementation of CornetNet.**
+
+**CenterNet is an one-stage detector which gets trained from scratch. On the MS-COCO dataset, CenterNet achieves an AP of 47.0%, which surpasses all known one-stage detectors, and even gets very close to the top-performance two-stage detectors.**
 
 ## Introduction
 
-CenterNet is a framework for object detection with deep ConvNets. You can use the code to train/evaluate a network for object detection task.
+CenterNet is a framework for object detection with deep convolutional neural networks. You can use the code to train and evaluate a network for object detection on the MS-COCO dataset.
 
-* It achieves state-of-the-art performance on one of the most challenging dataset: MS-COCO.
-* Our code is written by Python, based on [CornerNet](https://github.com/princeton-vl/CornerNet).
+* It achieves state-of-the-art performance (an AP of 47.0%) on one of the most challenging dataset: MS-COCO.
+
+* Our code is written in Python, based on [CornerNet](https://github.com/princeton-vl/CornerNet).
+
+*More detailed descriptions of our approach and code will be made available soon.*
 
 ## Architecture
 
