@@ -1,4 +1,4 @@
-# CenterNet: Keypoint Triplets for Object Detection
+# [CenterNet: Keypoint Triplets for Object Detection](https://arxiv.org/abs/1904.08189)
 by Kaiwen Duan, Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang and Qi Tian
 
 **The code to train and eval our CenterNet is available here. Thanks [Princeton Vision & Learning Lab](https://github.com/princeton-vl)!**
