@@ -3,7 +3,7 @@ by Kaiwen Duan, Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang and Qi Tian
 
 **The code to train and evaluate the proposed CenterNet is available here. For more technical details, please refer to our [arXiv paper](https://arxiv.org/abs/1904.08189).**
 
-**We thank [Princeton Vision & Learning Lab](https://github.com/princeton-vl) for providing the original implementation of CornetNet.**
+**We thank [Princeton Vision & Learning Lab](https://github.com/princeton-vl) for providing the original implementation of [CornerNet](https://github.com/princeton-vl/CornerNet).**
 
 **CenterNet is an one-stage detector which gets trained from scratch. On the MS-COCO dataset, CenterNet achieves an AP of 47.0%, which surpasses all known one-stage detectors, and even gets very close to the top-performance two-stage detectors.**
 
