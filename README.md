@@ -33,7 +33,7 @@ CenterNet is a framework for object detection with deep convolutional neural net
 
   In terms of speed, we test the inference speed of both CornerNet and CenterNet on a NVIDIA Tesla P100 GPU. We obtain that the average inference time of CornerNet511-104 (means that the resolution of input images is 511X511 and the backbone is Hourglass-104) is 300ms per image and that of CenterNet511-104 is 340ms. Meanwhile, using the Hourglass-52 backbone can speed up the inference speed. Our CenterNet511-52 takes an average of 270ms to process per image, which is faster and more accurate than CornerNet511-104.
 
-## Preparetion
+## Preparation
 Please first install [Anaconda](https://anaconda.org) and create an Anaconda environment using the provided package list.
 ```
 conda create --name CenterNet --file conda_packagelist.txt
