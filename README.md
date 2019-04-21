@@ -1,5 +1,5 @@
 # [CenterNet: Keypoint Triplets for Object Detection](https://arxiv.org/abs/1904.08189)
-by Kaiwen Duan, Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang and Qi Tian
+by [Kaiwen Duan](https://scholar.google.com/citations?hl=zh-CN&user=TFHRaZUAAAAJ&scilu=&scisig=AMD79ooAAAAAXLv9_7ddy26i4c6z5n9agk05m97faUdN&gmla=AJsN-F78W-h98Pb2H78j6lTKbjdn0fklhe2X_8CCPqRU2fC4KJEIbllhD2c5F0irMR3zDiehKt_SH26N2MHI1HlUMw6qRba9HMbiP3vnQfJqD82FrMAPdlU&sciund=10706678259143520926&gmla=AJsN-F5cOpNUdnI6YrZ9joRa6JE2nP6wFKU1GKVkNIfCmmgjk431Lg2BYCS6wn5WWZxdnzBjLfaUwdUJtvPXo53vfoOQoTGP5fHh2X0cCssVtXm8BI4PaM3_oQvKYtCx7o1wivIt1l49sDK6AZPvHLMxxPbC4GbZ1Q&sciund=10445692451499027349), [Song Bai](https://scholar.google.com.hk/citations?hl=zh-CN&user=LXuWMF4AAAAJ&view_op=list_works&sortby=pubdate), Lingxi Xie, Honggang Qi, Qingming Huang and Qi Tian
 
 **The code to train and evaluate the proposed CenterNet is available here. For more technical details, please refer to our [arXiv paper](https://arxiv.org/abs/1904.08189).**
 
