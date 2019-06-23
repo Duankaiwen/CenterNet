@@ -82,7 +82,7 @@ python train.py CenterNet-104
 ```
 We provide the configuration file (`CenterNet-104.json`) and the model file (`CenterNet-104.py`) for CenterNet in this repo. 
 
-We also provide a trained model for `CenterNet-104`, which is trained for 480k iterations using 8 Tesla V100 (32GB) GPUs. You can download it from [BaiduYun CenterNet-104](https://pan.baidu.com/s/17RvbWaxrvW1kXRuk7XmIfw) (code: 2clj) or [Google drive CenterNet-104](https://drive.google.com/open?id=1GVN-YrgExbPPcmzn_Lkr49f2IKjodg15) and put it under `<CenterNet dir>/cache/nnet` (You may need to create this directory by yourself if it does not exist). If you want to train you own CenterNet, please adjust the batch size in `CenterNet-104.json` to accommodate the number of GPUs that are available to you.
+We also provide a trained model for `CenterNet-104`, which is trained for 480k iterations using 8 Tesla V100 (32GB) GPUs. You can download it from [BaiduYun CenterNet-104](https://pan.baidu.com/s/1OQwMAPLcZkHWbTzD28cxow) (code: bfko) or [Google drive CenterNet-104](https://drive.google.com/open?id=1GVN-YrgExbPPcmzn_Lkr49f2IKjodg15) and put it under `<CenterNet dir>/cache/nnet` (You may need to create this directory by yourself if it does not exist). If you want to train you own CenterNet, please adjust the batch size in `CenterNet-104.json` to accommodate the number of GPUs that are available to you.
 
 To use the trained model:
 ```
@@ -95,7 +95,7 @@ python train.py CenterNet-52
 ```
 We provide the configuration file (`CenterNet-52.json`) and the model file (`CenterNet-52.py`) for CenterNet in this repo. 
 
-We also provide a trained model for `CenterNet-52`, which is trained for 480k iterations using 8 Tesla V100 (32GB) GPUs. You can download it from [BaiduYun CenterNet-52](https://pan.baidu.com/s/1Ltig0csUPp4T5HA4BjHikA) (code: ed0y) or [Google Drive CenterNet-52](https://drive.google.com/open?id=14vJYw4P9sxDoltjp5zDkOS3QjUa2zZIP) and put it under `<CenterNet dir>/cache/nnet` (You may need to create this directory by yourself if it does not exist). If you want to train you own CenterNet, please adjust the batch size in `CenterNet-52.json` to accommodate the number of GPUs that are available to you.
+We also provide a trained model for `CenterNet-52`, which is trained for 480k iterations using 8 Tesla V100 (32GB) GPUs. You can download it from [BaiduYun CenterNet-52](https://pan.baidu.com/s/1xZHB7jq7Hmi0qKu46qnotw) (code: 680t) or [Google Drive CenterNet-52](https://drive.google.com/open?id=14vJYw4P9sxDoltjp5zDkOS3QjUa2zZIP) and put it under `<CenterNet dir>/cache/nnet` (You may need to create this directory by yourself if it does not exist). If you want to train you own CenterNet, please adjust the batch size in `CenterNet-52.json` to accommodate the number of GPUs that are available to you.
 
 To use the trained model:
 ```
