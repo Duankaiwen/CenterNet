@@ -1,6 +1,6 @@
 # Updates
 
-# - (April, 2022) We released a pyramid framework for CenterNet: [PyCenterNet](https://github.com/Duankaiwen/PyCenterNet).
+- (April, 2022) We released a pyramid framework for CenterNet: [PyCenterNet](https://github.com/Duankaiwen/PyCenterNet).
 
 
 # [CenterNet: Keypoint Triplets for Object Detection](https://arxiv.org/abs/1904.08189)
