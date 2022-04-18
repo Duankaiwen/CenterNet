@@ -1,4 +1,4 @@
-## Updates
+# Updates
 
  - (April, 2022) We released a pyramid framework for CenterNet: [PyCenterNet](https://github.com/Duankaiwen/PyCenterNet).
 
